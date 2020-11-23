@@ -1,6 +1,6 @@
-# calc
+# Calculadora Simpels
 
-A new Flutter project.
+Use o poder do Flutter para criar seus projetos.
 
 ## Getting Started
 
