@@ -1,4 +1,4 @@
-# Calculadora Simpels
+# Calculadora Simples
 
 Use o poder do Flutter para criar seus projetos.
 
